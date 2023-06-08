@@ -22,9 +22,9 @@ const links = [
     description: "Discover the dedicated teams powering LodOS Group's mission.",
   },
   {
-    text: "News",
+    text: "Roadmap",
     url: "#",
-    description: "Keep an eye on the updates of the LodOS Group.",
+    description: "Explore the future vision and planned milestones of LodOS Group.",
   },
   {
     text: "Projects",
