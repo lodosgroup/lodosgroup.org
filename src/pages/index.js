@@ -54,9 +54,6 @@ const IndexPage = () => (
         imgStyle={{ transition: 'none' }}
         placeholder='none'
       />
-      <h3>
-        Boosting Linux systems with secure and efficient infrastructure
-      </h3>
     </div>
     <ul className={styles.list}>
       {links.map(link => (
