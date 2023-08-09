@@ -7,7 +7,7 @@ import * as styles from "../components/index.module.css"
 const links = [
   {
     text: "Lod Package Manager",
-    url: "https://lodpm.com",
+    url: "https://lpm.lodosgroup.org",
     status: "pre-alpha",
     description: "Modern, lightning-fast, and highly secure package manager as key component of LodOS Group's infrastructure.",
   },
