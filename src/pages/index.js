@@ -18,13 +18,8 @@ const links = [
   },
   {
     text: "Teams",
-    url: "#",
+    url: "/teams",
     description: "Discover the dedicated teams powering LodOS Group's mission.",
-  },
-  {
-    text: "Roadmap",
-    url: "#",
-    description: "Explore the future vision and planned milestones of LodOS Group.",
   },
   {
     text: "Projects",
