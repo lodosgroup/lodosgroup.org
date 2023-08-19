@@ -41,7 +41,7 @@ const lpmTeams = [
     description: "Maintains various UI projects, including terminal interfaces, desktop applications, and web UI projects.",
   },
   {
-    text: "Documentation and News",
+    text: "Content Team",
     url: "#",
     description: "Creates and maintains LPM documentation and news content.",
   },
