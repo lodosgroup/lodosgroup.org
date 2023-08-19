@@ -82,10 +82,16 @@ const SecondPage = () => (
           padding: `50px 50px 50px 100px`,
         }}
         className={styles.list}>
-        {lpmTeams.map(link => (
-          <li key={link.url} className={styles.listItem}>
-            {link.text}
-            <p className={styles.listItemDescription}>{link.description}</p>
+        {lpmTeams.map(team => (
+          <li key={team.url} className={styles.listItem}>
+            <span
+              style={{
+                fontWeight: `bold`,
+              }}
+            >
+              {team.text}
+            </span>
+            <p className={styles.listItemDescription}>{team.description}</p>
           </li>
         ))}
       </ul>
