@@ -27,7 +27,7 @@ const links = [
     text: "layers",
     url: "#",
     status: "upcoming",
-    description: "Effortlessly operable, robust software designed for security infrastructure management similar to SELinux and AppArmor, yet surpassing them in both superiority and advancement.",
+    description: "Effortlessly operable, robust software designed for security infrastructure management similar to SELinux and AppArmor.",
   },
 ]
 
