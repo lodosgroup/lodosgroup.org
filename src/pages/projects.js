@@ -15,7 +15,13 @@ const links = [
     text: "drive-it",
     url: "#",
     status: "under r&d",
-    description: "A proper system and service initializer that seamlessly combines lightweight and high-speed performance, while ensuring high compatibility with systemd commands and unit configurations.",
+    description: "A robust system and service initializer that seamlessly combines lightweight and high-speed performance, while ensuring high compatibility with systemd commands and unit configurations.",
+  },
+  {
+    text: "lodOS",
+    url: "#",
+    status: "upcoming",
+    description: "A Linux distribution constructed using the software developed by the LodOS Group, offering various spins for both end-users and servers.",
   },
   {
     text: "layers",
