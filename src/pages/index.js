@@ -23,7 +23,7 @@ const links = [
   },
   {
     text: "Contribution",
-    url: "#",
+    url: "/contribution",
     description: "Find out how you can actively participate and contribute to the growth and development in projects of LodOS Group.",
   },
 ]
