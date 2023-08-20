@@ -7,14 +7,9 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "About",
-    url: "#",
-    description: "Learn who we are, our mission, and vision.",
-  },
-  {
-    text: "Contribution",
-    url: "#",
-    description: "Find out how you can actively participate and contribute to the growth and development in projects of LodOS Group.",
+    text: "Projects",
+    url: "/projects",
+    description: "Explore the projects maintained by the LodOS Group.",
   },
   {
     text: "Teams",
@@ -22,9 +17,14 @@ const links = [
     description: "Discover the dedicated teams powering LodOS Group's mission.",
   },
   {
-    text: "Projects",
-    url: "/projects",
-    description: "Explore the projects maintained by the LodOS Group.",
+    text: "About",
+    url: "/about",
+    description: "Learn who we are, our mission, and vision.",
+  },
+  {
+    text: "Contribution",
+    url: "#",
+    description: "Find out how you can actively participate and contribute to the growth and development in projects of LodOS Group.",
   },
 ]
 

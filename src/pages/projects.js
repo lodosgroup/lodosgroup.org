@@ -6,10 +6,22 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "Lod Package Manager",
+    text: "lpm(lod package manager)",
     url: "https://lpm.lodosgroup.org",
     status: "pre-alpha",
-    description: "Modern, lightning-fast, and highly secure package manager as key component of LodOS Group's infrastructure.",
+    description: "Modern, lightning-fast, and highly secure package manager.",
+  },
+  {
+    text: "drive-it",
+    url: "#",
+    status: "under r&d",
+    description: "A proper system and service initializer that seamlessly combines lightweight and high-speed performance, while ensuring high compatibility with systemd commands and unit configurations.",
+  },
+  {
+    text: "layers",
+    url: "#",
+    status: "upcoming",
+    description: "Effortlessly operable, robust software designed for security infrastructure management similar to SELinux and AppArmor, yet surpassing them in both superiority and advancement.",
   },
 ]
 
