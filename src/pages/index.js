@@ -11,21 +11,21 @@ const links = [
     url: "/projects",
     description: "Explore the projects maintained by the LodOS Group.",
   },
-  {
-    text: "Teams",
-    url: "/teams",
-    description: "Discover the dedicated teams powering LodOS Group's mission.",
-  },
+  // {
+  //   text: "Teams",
+  //   url: "/teams",
+  //   description: "Discover the dedicated teams powering LodOS Group's mission.",
+  // },
   {
     text: "About",
     url: "/about",
     description: "Learn who we are, our mission, and vision.",
   },
-  {
-    text: "Contribution",
-    url: "/contribution",
-    description: "Find out how you can actively participate and contribute to the growth and development in projects of LodOS Group.",
-  },
+  // {
+  //   text: "Contribution",
+  //   url: "/contribution",
+  //   description: "Find out how you can actively participate and contribute to the growth and development in projects of LodOS Group.",
+  // },
 ]
 
 const moreLinks = [

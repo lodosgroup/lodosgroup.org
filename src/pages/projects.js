@@ -11,24 +11,24 @@ const links = [
     status: "pre-alpha",
     description: "Modern, lightning-fast, and highly secure package manager.",
   },
-  {
-    text: "drive-it",
-    url: "#",
-    status: "under r&d",
-    description: "A robust system and service initializer that seamlessly combines lightweight and high-speed performance, while ensuring high compatibility with systemd commands and unit configurations.",
-  },
-  {
-    text: "lodOS",
-    url: "#",
-    status: "upcoming",
-    description: "A Linux distribution constructed using the software developed by the LodOS Group, offering various spins for both end-users and servers.",
-  },
-  {
-    text: "layers",
-    url: "#",
-    status: "upcoming",
-    description: "Effortlessly operable, robust software designed for security infrastructure management similar to SELinux and AppArmor.",
-  },
+  // {
+  //   text: "drive-it",
+  //   url: "#",
+  //   status: "under r&d",
+  //   description: "A robust system and service initializer that seamlessly combines lightweight and high-speed performance, while ensuring high compatibility with systemd commands and unit configurations.",
+  // },
+  // {
+  //   text: "lodOS",
+  //   url: "#",
+  //   status: "upcoming",
+  //   description: "A Linux distribution constructed using the software developed by the LodOS Group, offering various spins for both end-users and servers.",
+  // },
+  // {
+  //   text: "layers",
+  //   url: "#",
+  //   status: "upcoming",
+  //   description: "Effortlessly operable, robust software designed for security infrastructure management similar to SELinux and AppArmor.",
+  // },
 ]
 
 const SecondPage = () => (
