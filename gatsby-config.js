@@ -10,7 +10,7 @@
 module.exports = {
   siteMetadata: {
     title: `LodOS Group`,
-    description: `Boosting Linux systems with secure and efficient infrastructure.`,
+    description: `Boosting UNIX like systems with secure and efficient infrastructure.`,
     author: `Lpm Core Maintainer <contact@onurozkan.dev>`,
     siteUrl: `https://lodosgroup.org`,
   },

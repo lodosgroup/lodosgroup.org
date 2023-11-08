@@ -55,7 +55,7 @@ const IndexPage = () => (
           fontWeight: `lighter`,
         }}
       >
-        Boosting Linux systems with secure and efficient infrastructure
+        Boosting UNIX like systems with secure and efficient infrastructure
       </h3>
     </div>
     <ul className={styles.list}>
