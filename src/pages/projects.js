@@ -8,7 +8,7 @@ const links = [
   {
     text: "lpm(lod package manager)",
     url: "https://lpm.lodosgroup.org",
-    status: "pre-alpha",
+    status: "alpha",
     description: "Modern, lightning-fast, and highly secure package manager.",
   },
   // {
